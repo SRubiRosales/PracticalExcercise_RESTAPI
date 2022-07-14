@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:datamapper="http:///org/wso2/developerstudio/eclipse/gmf/datamapper" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_gjs4kALsEe2APIiCv0KVpw" type="DataMapper" name="RequestMapping.datamapper_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_g0JIUALsEe2APIiCv0KVpw" type="2002" fontName="Segoe UI">
+    <element xmi:type="datamapper:Input" href="RequestMapping.datamapper#//@input"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g0JIUQLsEe2APIiCv0KVpw" x="185" y="-200" width="250" height="160"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_g0JIUgLsEe2APIiCv0KVpw" type="2003" fontName="Segoe UI">
+    <element xmi:type="datamapper:Output" href="RequestMapping.datamapper#//@output"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g0JIUwLsEe2APIiCv0KVpw" x="552" y="-246" width="250" height="220"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_gjs4kQLsEe2APIiCv0KVpw"/>
+  <element xmi:type="datamapper:DataMapperRoot" href="RequestMapping.datamapper#/"/>
+</notation:Diagram>
