@@ -1,5 +1,5 @@
 *.project
 *.car
-*.clsspath
+*.classpath
 /SampleServicesCompositeApplication/target/
 /SampleServicesRegistry/target/
