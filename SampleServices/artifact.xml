@@ -32,4 +32,7 @@
     <artifact name="PaymentRequestProcessor" groupId="com.example.SampleServices.message-processors" version="1.0.0" type="synapse/message-processors" serverRole="EnterpriseServiceBus">
         <file>src/main/synapse-config/message-processors/PaymentRequestProcessor.xml</file>
     </artifact>
+    <artifact name="HospitalRoutingSeq" groupId="com.example.SampleServices.template" version="1.0.0" type="synapse/sequenceTemplate" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/templates/HospitalRoutingSeq.xml</file>
+    </artifact>
 </artifacts>

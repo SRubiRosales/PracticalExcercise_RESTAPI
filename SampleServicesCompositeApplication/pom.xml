@@ -15,6 +15,7 @@
     <com.example.SampleServices.endpoint_._ClemencyEP>capp/EnterpriseServiceBus</com.example.SampleServices.endpoint_._ClemencyEP>
     <com.example.SampleServices.sequence_._PaymentRequestProcessingSequence>capp/EnterpriseServiceBus</com.example.SampleServices.sequence_._PaymentRequestProcessingSequence>
     <com.example.SampleServices.message-processors_._PaymentRequestProcessor>capp/EnterpriseServiceBus</com.example.SampleServices.message-processors_._PaymentRequestProcessor>
+    <com.example.SampleServices.template_._HospitalRoutingSeq>capp/EnterpriseServiceBus</com.example.SampleServices.template_._HospitalRoutingSeq>
     <com.example.SampleServices.endpoint_._PineValleyEP>capp/EnterpriseServiceBus</com.example.SampleServices.endpoint_._PineValleyEP>
     <com.example.SampleServices.resource_._RequestMapping_inputSchema>capp/EnterpriseServiceBus</com.example.SampleServices.resource_._RequestMapping_inputSchema>
     <com.example.SampleServices.endpoint_._ChannelingFeeEP>capp/EnterpriseServiceBus</com.example.SampleServices.endpoint_._ChannelingFeeEP>
@@ -114,6 +115,12 @@
     <dependency>
       <groupId>com.example.SampleServices.sequence</groupId>
       <artifactId>PaymentRequestProcessingSequence</artifactId>
+      <version>1.0.0</version>
+      <type>xml</type>
+    </dependency>
+    <dependency>
+      <groupId>com.example.SampleServices.template</groupId>
+      <artifactId>HospitalRoutingSeq</artifactId>
       <version>1.0.0</version>
       <type>xml</type>
     </dependency>
